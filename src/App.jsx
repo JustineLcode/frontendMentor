@@ -29,7 +29,7 @@ function App() {
           <rect x="14" width="6" height="16" rx="3"/>
           </g></g></svg>
       </div>
-      <a className='dé' href="#" onClick={(e) => {
+      <a className='dé' href="https://justinelcode.github.io/frontendMentor/" onClick={(e) => {
             e.preventDefault(); 
             fetchData(); 
           }}>
